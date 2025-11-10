@@ -75,7 +75,7 @@ detalladamente.
 2. **Maximizar**: Presiona la tecla **"v"** para alternar la maximización del gráfico. Esto te permitirá ver el gráfico en una ventana más grande o regresar a su tamaño original.
 
 #### Demostración
-https://github.com/mikcudip/db-peru/tree/master/inei/poblacion/crecimiento/usage.mp4
+https://github.com/user-attachments/assets/563a9c11-e2f6-4148-93e0-94cc6b04e9b7
 
 ---
 
