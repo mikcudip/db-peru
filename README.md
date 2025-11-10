@@ -66,6 +66,17 @@ Snapshots de referencia histórica:
 
 > *Nota:* Los snapshots son de solo lectura y se actualizaran automaticamente.
 
+### Instrucciones para visualizar el gráfico
+
+Para visualizar el gráfico de manera más detallada, sigue estos pasos:
+
+1. **Superponer el cursor**: Coloca el cursor del mouse sobre el gráfico para verlo más
+detalladamente.
+2. **Maximizar**: Presiona la tecla **"v"** para alternar la maximización del gráfico. Esto te permitirá ver el gráfico en una ventana más grande o regresar a su tamaño original.
+
+#### Demostración
+[Ver video](https://github.com/mikcudip/dotfiles/blob/main/inei/poblacion/crecimiento/usage.mp4)
+
 ---
 
 ## 📜 Créditos
